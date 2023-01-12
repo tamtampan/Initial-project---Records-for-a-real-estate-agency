@@ -1,0 +1,44 @@
+OWNER
+117865
+{"address": "Stepska 8", "city": "Nis", "name": "Vladan", "person_id": "117865", "phone": "0115855221", "state": "Srbija", "surname": "Markovic"}
+
+OWNER
+26052782551
+{"address": "Decanska 9", "city": "Kragujevac", "name": "Toma", "person_id": "26052782551", "phone": "0119997652", "state": "Srbija", "surname": "Pavlovic"}
+
+OWNER
+30129856252
+{"address": "Karadjordjeva 39", "city": "Smederevo", "name": "Lena", "person_id": "30129856252", "phone": "011564788", "state": "Srbija", "surname": "Markovic"}
+
+OWNER
+141096523251
+{"address": "Focanska 6", "city": "Novi Sad", "name": "Kosta", "person_id": "141096523251", "phone": "0118976521", "state": "Srbija", "surname": "Mihajlovic"}
+
+OWNER
+235-777
+{"address": "Visnjicka 95", "city": "Beograd", "name": "Pera", "person_id": "235-777", "phone": "011987265", "state": "Srbija", "surname": "Kostic"}
+
+OWNER
+0606996423151
+{"address": "Gavrila Principa 30", "city": "Beograd", "name": "Marija", "person_id": "0606996423151", "phone": "0116893335", "state": "Srbija", "surname": "Mikic"}
+
+OWNER
+05064843214
+{"address": "Mostarska 34", "city": "Nis", "name": "Ivica", "person_id": "05064843214", "phone": "0116554888", "state": "Srbija", "surname": "Jovanovic"}
+
+OWNER
+23054845655
+{"address": "Njegoseva 29", "city": "Nis", "name": "Aleksa", "person_id": "23054845655", "phone": "0117653333", "state": "Srbija", "surname": "Vinkic"}
+
+OWNER
+03049876542
+{"address": "Nadezde Dimic 5", "city": "Smederevo", "name": "David", "person_id": "03049876542", "phone": "0116422225", "state": "Srbija", "surname": "Peric"}
+
+OWNER
+090699325147
+{"address": "Laze Teleckog", "city": "Novi Sad", "name": "Vuk", "person_id": "090699325147", "phone": "01156488887", "state": "Srbija", "surname": "Spasojevic"}
+
+OWNER
+0606998652010
+{"address": "Resavska 6", "city": "Beograd", "name": "Kosta", "person_id": "0606998652010", "phone": "0116861111", "state": "Srbija", "surname": "Simic"}
+

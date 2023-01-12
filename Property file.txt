@@ -1,0 +1,36 @@
+AGRICULTURAL LAND
+{"address": "Stepska 10", "area": "300", "city": "Nis", "electricity": "yes", "offer": "Sell", "owner_id": "1111660201865", "price": "5000", "property_id": "112946", "property_type": "Agricultural land", "registered": "yes", "state": "Srbija", "water": "yes"}
+
+APARTMENT
+{"address": "Decanska 54", "air_conditioner": "0", "area": "43", "cable_tv": "1", "city": "Kragujevac", "elevator": "1", "heating": "gas", "num_bedrooms": "1", "offer": "Rent", "on_floor": "2", "owner_id": "26052782551", "parking": "1", "price": "60000", "property_id": "676255", "property_type": "Apartment", "state": "Srbija", "terrace": "1"}
+
+BUILDING
+{"address": "Milosa Velikog 8", "air_conditioner": "1", "area": "70", "cable_tv": "1", "city": "Smederevo", "elevator": "0", "floor_number": "1", "heating": "gas", "offer": "Rent", "owner_id": "30129856252", "parking": "1", "price": "100000", "property_id": "332145", "property_type": "Building", "state": "Srbija"}
+
+BUILDING PART
+{"address": "Visnjicka 56", "air_conditioner": "1", "area": "100", "cable_tv": "1", "city": "Beograd", "elevator": "1", "floor_number": "5", "heating": "gas", "offer": "Rent", "owner_id": "23565481111", "parking": "1", "price": "150000", "property_id": "444487", "property_type": "Building part", "state": "Srbija"}
+
+BUILDING PART
+{"address": "Vojvode Stepe 6", "air_conditioner": "0", "area": "560", "cable_tv": "0", "city": "Beograd", "elevator": "0", "floor_number": "3", "heating": "gas", "offer": "Sell", "owner_id": "0606996423151", "parking": "0", "price": "200000", "property_id": "111353", "property_type": "Building part", "state": "Srbija"}
+
+BUSINESS PREMISES
+{"address": "Nikolajevska 1", "air_conditioner": "1", "area": "230", "cable_tv": "1", "city": "Novi Sad", "elevator": "0", "heating": "gas", "offer": "Rent", "on_floor": "0", "owner_id": "05064843214", "parking": "0", "price": "900", "property_id": "445662", "property_type": "Business premises", "state": "Srbija"}
+
+FOREST
+{"address": "Vucki put bb", "area": "600", "city": "Nis", "offer": "Sell", "owner_id": "23054845655", "price": "7000", "property_id": "117887", "property_type": "Forest", "registered": "0", "state": "Srbija"}
+
+FOREST
+{"address": "Kolarski put bb", "area": "600", "city": "Smederevo", "offer": "Sell", "owner_id": "03049876542", "price": "10000", "property_id": "222626", "property_type": "Forest", "registered": "yes", "state": "Srbija"}
+
+GARAGE
+{"address": "Zlatne grede 6", "area": "30", "city": "Novi Sad", "num_of_car_places": "2", "offer": "Rent", "owner_id": "090699325147", "price": "100", "property_id": "119991", "property_type": "Garage", "state": "Srbija"}
+
+FOREST
+{"address": "Smederevski put 54", "area": "300", "city": "Smederevo", "offer": "Sell", "owner_id": "0606998652010", "price": "11000", "property_id": "991661", "property_type": "Forest", "registered": "yes", "state": "Srbija"}
+
+HOUSE
+{"address": "Kralja Petra 56", "air_conditioner": "0", "area": "130", "cable_tv": "0", "city": "Nis", "heating": "gas", "num_bedrooms": "2", "num_floors": "1", "offer": "Sell", "owner_id": "05064843214", "parking": "0", "price": "67000", "property_id": "646897", "property_type": "House", "state": "Srbija", "terrace": "0", "yard_area": "10"}
+
+
+
+

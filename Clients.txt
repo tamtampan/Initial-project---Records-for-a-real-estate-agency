@@ -1,0 +1,24 @@
+CLIENT
+030299632514
+{"address": "Kovaciceva", "city": "Beograd", "name": "Luka", "person_id": "030299632514", "phone": "011684759", "state": "Srbija", "surname": "Petrovic"}
+
+CLIENT
+09129876541
+{"address": "Zmaj Jovina 4", "city": "Beograd", "name": "Kosta", "person_id": "09129876541", "phone": "0113334488", "state": "Srbija", "surname": "Mikic"}
+
+CLIENT
+1304997654020
+{"address": "Trg Republike 12", "city": "Beograd", "name": "Sava", "person_id": "1304997654020", "phone": "0116667874", "state": "Srbija", "surname": "Petrovic"}
+
+CLIENT
+0203987654020
+{"address": "Karadjordjeva 87", "city": "Kragujevac", "name": "Ivana", "person_id": "0203987654020", "phone": "0118833352", "state": "Srbija", "surname": "Milojevic"}
+
+CLIENT
+0910988326502
+{"address": "Kosanciceva 2", "city": "Kragujevac", "name": "Marko", "person_id": "0910988326502", "phone": "0116863355", "state": "Srbija", "surname": "Krstic"}
+
+CLIENT
+1408999656030
+{"address": "Resavska 65", "city": "Beograd", "name": "Nadezda", "person_id": "1408999656030", "phone": "0114648585", "state": "Srbija", "surname": "Ivic"}
+
