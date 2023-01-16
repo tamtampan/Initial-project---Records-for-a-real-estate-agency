@@ -1,0 +1,45 @@
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "112-946/117865", "date": "09.01.2023.", "owner_address": "Stepska 8", "owner_city": "Nis", "owner_id": "117865", "owner_name": "Vladan", "owner_phone": "0115855221", "owner_state": "Srbija", "owner_surname": "Markovic", "property_id": "112-946", "property_price": "5000", "service_price": "50"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "676-255/26052782551", "date": "09.01.2023.", "owner_address": "Decanska 9", "owner_city": "Kragujevac", "owner_id": "26052782551", "owner_name": "Toma", "owner_phone": "0119997652", "owner_state": "Srbija", "owner_surname": "Pavlovic", "property_id": "676-255", "property_price": "60000", "service_price": "600"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "332-145/30129856252", "date": "09.01.2023.", "owner_address": "Karadjordjeva 39", "owner_city": "Smederevo", "owner_id": "30129856252", "owner_name": "Lena", "owner_phone": "011564788", "owner_state": "Srbija", "owner_surname": "Markovic", "property_id": "332-145", "property_price": "100000", "service_price": "1000"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "388-695/141096523251", "date": "09.01.2023.", "owner_address": "Focanska 6", "owner_city": "Novi Sad", "owner_id": "141096523251", "owner_name": "Kosta", "owner_phone": "0118976521", "owner_state": "Srbija", "owner_surname": "Mihajlovic", "property_id": "388-695", "property_price": "20000", "service_price": "200"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "444-487/235-777", "date": "09.01.2023.", "owner_address": "Visnjicka 95", "owner_city": "Beograd", "owner_id": "235-777", "owner_name": "Pera", "owner_phone": "011987265", "owner_state": "Srbija", "owner_surname": "Kostic", "property_id": "444-487", "property_price": "150000", "service_price": "1500"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "111-353/0606996423151", "date": "09.01.2023.", "owner_address": "Gavrila Principa 30", "owner_city": "Beograd", "owner_id": "0606996423151", "owner_name": "Marija", "owner_phone": "0116893335", "owner_state": "Srbija", "owner_surname": "Mikic", "property_id": "111-353", "property_price": "200000", "service_price": "2000"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "445-662/05064843214", "date": "09.01.2023.", "owner_address": "Mostarska 34", "owner_city": "Nis", "owner_id": "05064843214", "owner_name": "Ivica", "owner_phone": "0116554888", "owner_state": "Srbija", "owner_surname": "Jovanovic", "property_id": "445-662", "property_price": "900", "service_price": "9"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "117-887/23054845655", "date": "09.01.2023.", "owner_address": "Njegoseva 29", "owner_city": "Nis", "owner_id": "23054845655", "owner_name": "Aleksa", "owner_phone": "0117653333", "owner_state": "Srbija", "owner_surname": "Vinkic", "property_id": "117-887", "property_price": "7000", "service_price": "70"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "222-626/03049876542", "date": "09.01.2023.", "owner_address": "Nadezde Dimic 5", "owner_city": "Smederevo", "owner_id": "03049876542", "owner_name": "David", "owner_phone": "0116422225", "owner_state": "Srbija", "owner_surname": "Peric", "property_id": "222-626", "property_price": "10000", "service_price": "100"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "119-991/090699325147", "date": "09.01.2023.", "owner_address": "Laze Teleckog", "owner_city": "Novi Sad", "owner_id": "090699325147", "owner_name": "Vuk", "owner_phone": "01156488887", "owner_state": "Srbija", "owner_surname": "Spasojevic", "property_id": "119-991", "property_price": "100", "service_price": "1"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "991-661/0606998652010", "date": "09.01.2023.", "owner_address": "Resavska 6", "owner_city": "Beograd", "owner_id": "0606998652010", "owner_name": "Kosta", "owner_phone": "0116861111", "owner_state": "Srbija", "owner_surname": "Simic", "property_id": "991-661", "property_price": "11000", "service_price": "110"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "x/05064843214", "date": "09.01.2023.", "owner_address": "Mostarska 34", "owner_city": "Nis", "owner_id": "05064843214", "owner_name": "Ivica", "owner_phone": "0116554888", "owner_state": "Srbija", "owner_surname": "Jovanovic", "property_id": "x", "property_price": "50", "service_price": "0"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "555-336/05064843214", "date": "09.01.2023.", "owner_address": "Mostarska 34", "owner_city": "Nis", "owner_id": "05064843214", "owner_name": "Ivica", "owner_phone": "0116554888", "owner_state": "Srbija", "owner_surname": "Jovanovic", "property_id": "555-336", "property_price": "1000", "service_price": "10"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "223-663/05064843214", "date": "09.01.2023.", "owner_address": "Mostarska 34", "owner_city": "Nis", "owner_id": "05064843214", "owner_name": "Ivica", "owner_phone": "0116554888", "owner_state": "Srbija", "owner_surname": "Jovanovic", "property_id": "223-663", "property_price": "500", "service_price": "5"}
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "contract_id": "646-897/05064843214", "date": "09.01.2023.", "owner_address": "Mostarska 34", "owner_city": "Nis", "owner_id": "05064843214", "owner_name": "Ivica", "owner_phone": "0116554888", "owner_state": "Srbija", "owner_surname": "Jovanovic", "property_id": "646-897", "property_price": "67000", "service_price": "670"}
+
