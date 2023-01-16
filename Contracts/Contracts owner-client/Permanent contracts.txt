@@ -1,0 +1,18 @@
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "client_address": "Zmaj Jovina 4", "client_city": "Beograd", "client_id": "09129876541", "client_name": "Kosta", "client_phone": "0113334488", "client_state": "Srbija", "client_surname": "Mikic", "contract_id": "555-336/05064843214", "date": "03.01.2023.", "expiry_date": "03.01.2024.", "owner_address": "Mostarska 34", "owner_city": "Nis", "owner_id": "05064843214", "owner_name": "Ivica", "owner_phone": "0116554888", "owner_state": "Srbija", "owner_surname": "Jovanovic", "property_id": "555-336", "property_price": "1000", "service_price": "10"}
+PROPERTY
+{"address": "Focanska 10", "area": "30", "city": "Nis", "offer": "Sell", "owner_id": "05064843214", "price": "1000", "property_id": "555-336", "property_type": "Garage place", "state": "Srbija"}
+
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "client_address": "Trg Republike 12", "client_city": "Beograd", "client_id": "1304997654020", "client_name": "Sava", "client_phone": "0116667874", "client_state": "Srbija", "client_surname": "Petrovic", "contract_id": "388-695/141096523251", "date": "05.12.2022.", "expiry_date": "05.01.2023.", "owner_address": "Focanska 6", "owner_city": "Novi Sad", "owner_id": "141096523251", "owner_name": "Kosta", "owner_phone": "0118976521", "owner_state": "Srbija", "owner_surname": "Mihajlovic", "property_id": "388-695", "property_price": "20000", "service_price": "200"}
+PROPERTY
+{"address": "Focanska 24", "area": "400", "city": "Novi Sad", "electricity": "yes", "offer": "Sell", "owner_id": "141096523251", "price": "20000", "property_id": "388-695", "property_type": "Building land", "registered": "yes", "state": "Srbija", "water": "yes"}
+
+
+CONTRACT
+{"agency_address": "Resavska 5", "agency_boss_name": "Pera", "agency_boss_surname": "Peric", "agency_city": "Belgrade", "agency_name": "Real state agency", "agency_state": "Serbia", "client_address": "Kovaciceva", "client_city": "Beograd", "client_id": "030299632514", "client_name": "Luka", "client_phone": "011684759", "client_state": "Srbija", "client_surname": "Petrovic", "contract_id": "223-663/05064843214", "date": "06.01.2023.", "expiry_date": "30.01.2023.", "owner_address": "Mostarska 34", "owner_city": "Nis", "owner_id": "05064843214", "owner_name": "Ivica", "owner_phone": "0116554888", "owner_state": "Srbija", "owner_surname": "Jovanovic", "property_id": "223-663", "property_price": "500", "service_price": "5"}
+PROPERTY
+{"address": "Karadjordjeva", "air_conditioner": "1", "area": "200", "cable_tv": "1", "city": "Beograd", "heating": "wood", "num_bedrooms": "3", "num_floors": "2", "offer": "Rent", "owner_id": "05064843214", "parking": "1", "price": "500", "property_id": "223-663", "property_type": "House", "state": "Srbija", "terrace": "2", "yard_area": "30"}
+
+
