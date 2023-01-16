@@ -1,0 +1,8 @@
+venv
+Clients.txt
+Owners.txt
+Property file.txt
+README.py
+Contracts
+.idea
+__pycache__
